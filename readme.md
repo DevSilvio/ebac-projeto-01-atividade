@@ -20,7 +20,7 @@
 <p align="center">Veja o site completo 👇</p>
 
 <p align="center">
-    <a href="https://ebac-projeto-01-vert.vercel.app/#" target="_blank">
+    <a href="https://ebac-projeto-01-atividade.vercel.app/" target="_blank">
         <img src="imagens/site brasil fitiness.png" alt="Foto do site Brasil fitiness"> </img>
     </a>
 </p>
